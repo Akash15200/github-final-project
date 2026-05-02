@@ -29,3 +29,4 @@ Output:
 - HTML
 - CSS
 - JavaScript
+fix typo
